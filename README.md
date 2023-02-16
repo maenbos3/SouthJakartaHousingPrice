@@ -5,9 +5,15 @@ In this machine learning model, I will illustrate on how to implement Random For
 The dataset contains 6 columns:
 
 HARGA :the price of the house
+
 LT : the land size
+
 LB : the building size
+
 JKT : the number of bedroom(s)
+
 JKM : the number of bathroom(s)
+
 GRS : is there any garage?
+
 KOTA : the name of the city
